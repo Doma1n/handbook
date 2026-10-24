@@ -154,6 +154,17 @@ PET respondents may NEVER become mutants, as they will be attacked by their fell
 
 [/details]
 
+[details="🚷 Room Restrictions"]
+
+Room restrictions are used to protect important areas from visitors during disasters or when handling the core.
+They are issued by Lieutenant+ (see the Ranks section for more information).
+
+Non PET/PBST who are in a restricted room typically need to be given a warning first before PET respondents are permitted to attack.
+
+In specific circumstances, a Lieutenant+ may issue a restriction that does not require warnings.
+
+[/details]
+
 [/details]
 
 [details="☢️ PBCC"]
@@ -254,7 +265,7 @@ You should never spread or start fires whilst being on-duty for PET. As a PET re
 
 As a PET Respondent, you must ensure that the satellite connection located in the computer science labs is kept on at all times in case of a missile event.
 
-During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non PET/PBST that enter the room. This restriction is automatically voided once the disaster ends.
+During the Missiles event, the Labs room is automatically restricted with no warnings required for non PET/PBST. This restriction is automatically voided once the disaster ends.
 
 You can use the PET Tablet to quickly view whether the satellite connection is enabled or disabled.
 
